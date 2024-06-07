@@ -1,0 +1,3 @@
+line1 from master 
+line2 from feature
+line3 from master
